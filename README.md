@@ -7,6 +7,10 @@
 - npm start (roda o projeto no expo)
 - npm expo start --tunnel
 
+# Comando para habilitar npm e npx
+
+- Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 # Comandos Git
 
 - git config --global user.name "---"
