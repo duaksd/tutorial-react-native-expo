@@ -15,13 +15,13 @@ export default function Botao() {
     const styles = StyleSheet.create({
         button: {
           marginTop: 20,
-          backgroundColor: "#0066cc",
+          backgroundColor: "#33dff1",
           paddingVertical: 12,
           paddingHorizontal: 24,
           borderRadius: 8
         },
         buttonText: {
-          color: "#fff",
+          color: "#334d",
           fontSize: 16,
           fontWeight: "bold"
         }
