@@ -29,3 +29,4 @@
 - Componente: Parte do layout que você vai separar e reaproveitar em outras páginas. Bons para facilitar organização e manutenção.
 - Escalabilidade: Aumentar funcionalidades, acessos...
 - Componentes em letra maiúscula para fácil identificação visual.
+- Quais os tipos de navegação eu posso usar com Expo Router? .. Stack, Tabs, Drawer, Modal
